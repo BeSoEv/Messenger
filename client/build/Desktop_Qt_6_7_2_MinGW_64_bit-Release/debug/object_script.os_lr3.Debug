@@ -1,0 +1,13 @@
+debug/chatwindow.o
+debug/creategroudialog.o
+debug/dialogconnection.o
+debug/main.o
+debug/mainwindow.o
+debug/registration.o
+debug/socketmanager.o
+debug/moc_chatwindow.o
+debug/moc_creategroudialog.o
+debug/moc_dialogconnection.o
+debug/moc_mainwindow.o
+debug/moc_registration.o
+debug/moc_socketmanager.o
